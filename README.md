@@ -1,4 +1,4 @@
-# Login-register-Assignment-
+# Login-register-Assignment
 This is a simple front end development for internship. It is developed in HTML, Css, JavaScript, PHP, and MySQL. 
 
 > Requirement:
